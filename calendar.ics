@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal IPN Assignments//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPN Einsätze
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ipn-20261105-vitalscreening@personal-calendar
+DTSTAMP:20261103T130000Z
+DTSTART;TZID=Europe/Berlin:20261105T080000
+DTEND;TZID=Europe/Berlin:20261105T170000
+SUMMARY:IPN | TK Vitalscreening – freshcells Düsseldorf
+LOCATION:freshcells systems engineering GmbH\, Burghofstr. 40\, 40223 Düs
+ seldorf\, Germany
+DESCRIPTION:Setup/arrival discussed with Alexander: 08:00 (confirm). Parti
+ cipant sessions: 10:00–12:20 and 13:00–17:00. Module: Vitalscreening 
+ (20 min per participant). Colleague: Alexander Lindner (KI Posture-Scan /
+  Life Kinetik). Transport: coordinate pickup with Alexander. Confirm TK p
+ olo and name badge with IPN Personalplanung. This event includes setup ti
+ me; the participant sessions start at 10:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:ipn-20261117-seismofit@personal-calendar
+DTSTAMP:20261103T130000Z
+DTSTART;TZID=Europe/Berlin:20261117T090000
+DTEND;TZID=Europe/Berlin:20261117T160000
+SUMMARY:IPN | AOK Seismofit – Düsseldorf (Day 1)
+LOCATION:AOK Rheinland/Hamburg\, Wanheimer Straße 72\, 40468 Düsseldorf\
+ , Germany
+DESCRIPTION:Module: Seismofit Fitnessmessung. Participant slots: 15 minute
+ s. Colleague: Lars Tenhagen. Confirm arrival/setup and transport details 
+ with IPN. Parking arrangements being coordinated. Booking note: bitte 4x 
+ die Seismofit Messung einbuchen; ideally same participants both days.
+END:VEVENT
+BEGIN:VEVENT
+UID:ipn-20261118-seismofit@personal-calendar
+DTSTAMP:20261103T130000Z
+DTSTART;TZID=Europe/Berlin:20261118T090000
+DTEND;TZID=Europe/Berlin:20261118T160000
+SUMMARY:IPN | AOK Seismofit – Düsseldorf (Day 2)
+LOCATION:AOK Rheinland/Hamburg\, Wanheimer Straße 72\, 40468 Düsseldorf\
+ , Germany
+DESCRIPTION:Module: Seismofit Fitnessmessung. Participant slots: 15 minute
+ s. Colleague: Lars Tenhagen. Confirm arrival/setup and transport details 
+ with IPN. Parking arrangements being coordinated. Booking note: bitte 4x 
+ die Seismofit Messung einbuchen; ideally same participants both days.
+END:VEVENT
+BEGIN:VEVENT
+UID:ipn-20261124-ergometer@personal-calendar
+DTSTAMP:20261103T140000Z
+DTSTART;TZID=Europe/Berlin:20261124T090000
+DTEND;TZID=Europe/Berlin:20261124T160000
+SUMMARY:IPN | TK Ergometer-Ausdauertest – NRW.URBAN (address check)
+DESCRIPTION:Confirmed assignment 24–25 Nov 2026. Your module: Ergometer-
+ Ausdauertest (15 min each) 09:00–12:00 and 12:45–16:00. Other modules
+ : Beweglichkeits-Check (Martial Engelmann) and KI Posture-Scan (Katharina
+  Kopmann). IMPORTANT LOCATION CONFLICT: App main address shows Revierstr.
+  3 / 44379 Dortmund but both event comments say event is NOT in Dortmund 
+ and specify NRW.URBAN Service GmbH / Hansaallee 299 / 40549 Düsseldorf (
+ comments refer to 25 Nov 2025). Verify 2026 location with IPN before trav
+ eling. Contacts available in IPN app.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ipn-20261125-ergometer@personal-calendar
+DTSTAMP:20261103T140000Z
+DTSTART;TZID=Europe/Berlin:20261125T090000
+DTEND;TZID=Europe/Berlin:20261125T160000
+SUMMARY:IPN | TK Ergometer-Ausdauertest – NRW.URBAN (address check)
+DESCRIPTION:Confirmed assignment 24–25 Nov 2026. Your module: Ergometer-
+ Ausdauertest (15 min each) 09:00–12:00 and 12:45–16:00. Other modules
+ : Beweglichkeits-Check (Martial Engelmann) and KI Posture-Scan (Katharina
+  Kopmann). IMPORTANT LOCATION CONFLICT: App main address shows Revierstr.
+  3 / 44379 Dortmund but both event comments say event is NOT in Dortmund 
+ and specify NRW.URBAN Service GmbH / Hansaallee 299 / 40549 Düsseldorf (
+ comments refer to 25 Nov 2025). Verify 2026 location with IPN before trav
+ eling. Contacts available in IPN app.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
